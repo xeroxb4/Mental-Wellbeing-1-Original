@@ -406,11 +406,7 @@ nav {
   margin-left: 15px;
 }
 
-#backgroundimg {
-  /* height: 100%;
-  width: 20%; */
 
-}
 
 .background-img {
   background-image: url("../img/relaxing-expert-section-bg-image.0e1790a9.jpg");
@@ -425,7 +421,7 @@ nav {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* background-color: pink; */
+  
   background-size: cover;
   padding-bottom: 20rem;
   height: 120vh;
@@ -543,4 +539,8 @@ nav {
   line-height: 30px;
   justify-content: center;
   
+}
+
+.sec8 h2{
+  padding: 6rem 35rem;
 }
